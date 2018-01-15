@@ -1,0 +1,15 @@
+C:\Users\Максим\source\repos\calendar\calendar\bin\Debug\calendar.exe.config
+C:\Users\Максим\source\repos\calendar\calendar\bin\Debug\calendar.exe
+C:\Users\Максим\source\repos\calendar\calendar\bin\Debug\calendar.pdb
+C:\Users\Максим\source\repos\calendar\calendar\obj\Debug\calendar.csprojResolveAssemblyReference.cache
+C:\Users\Максим\source\repos\calendar\calendar\obj\Debug\MainWindow.g.cs
+C:\Users\Максим\source\repos\calendar\calendar\obj\Debug\App.g.cs
+C:\Users\Максим\source\repos\calendar\calendar\obj\Debug\calendar_MarkupCompile.cache
+C:\Users\Максим\source\repos\calendar\calendar\obj\Debug\calendar_MarkupCompile.lref
+C:\Users\Максим\source\repos\calendar\calendar\obj\Debug\MainWindow.baml
+C:\Users\Максим\source\repos\calendar\calendar\obj\Debug\calendar.g.resources
+C:\Users\Максим\source\repos\calendar\calendar\obj\Debug\calendar.Properties.Resources.resources
+C:\Users\Максим\source\repos\calendar\calendar\obj\Debug\calendar.csproj.GenerateResource.Cache
+C:\Users\Максим\source\repos\calendar\calendar\obj\Debug\calendar.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\calendar\calendar\obj\Debug\calendar.exe
+C:\Users\Максим\source\repos\calendar\calendar\obj\Debug\calendar.pdb
